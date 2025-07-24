@@ -33,6 +33,6 @@ Food is below the snake head
 ## Output Actions (3 values)
 The model predicts Q-values for each possible move:
 
-[1, 0, 0] → move straight
+[1, 0, 0] → move straight\n
 [0, 1, 0] → turn right
 [0, 0, 1] → turn left
